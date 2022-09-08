@@ -1,9 +1,10 @@
 package poo.encapsulacion;
 
 class Persona{
-    
+   
     private int age;
     private String name;
+    
     private String phone;
 
     public Persona(){
